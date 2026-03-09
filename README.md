@@ -9,6 +9,13 @@
 - 📍 Localizado: Curitiba - PR
 - ⚡ Fun fact: Já integrei IA em um chat de aplicativo financeiro com **FastAPI**, depois troquei para **Node.js**
 
+Já trabalhei com:
+
+Conversão/Criação de desenvolvimento em **aplicativos** mobile a partir de sites existentes, criando aplicações do zero para permitir uso simultâneo em dispositivos móveis.
+- Plataforma de Cursos e Aulas
+- Aplicativo Financeiro com IA (Ideia Autoral Hackathon)
+- Plataformas de suporte e gestão de atendimento (Tickets, Chats e Chamados)
+
 ---
 
 ### Linguagens e Tecnologias que uso
